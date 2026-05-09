@@ -1,4 +1,4 @@
-# Whu_Thesis
+# WHU_THESIS
 武大本科毕设相关，含论文模版、答辩ppt模版等
 
 ## 论文模版
